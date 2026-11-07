@@ -2,7 +2,7 @@
 
 Full-stack developer and computer engineering student (BSc, Széchenyi István University, 2027) from Hungary.
 
-- 🏭 IT intern at **AUDI HUNGARIA** since 2024: building features for manufacturing support applications in a DevOps team, incident handling and vulnerability remediation (ITIL).
+- 🏭 IT intern at **AUDI HUNGARIA** since 2025: building features for manufacturing support applications in a DevOps team, incident handling and vulnerability remediation (ITIL).
 - 🌱 Built a graph visualisation and editing web app for **STRATECO**, an Austrian sustainability company. It runs in production.
 - 🧰 Building my own loyalty card SaaS (Next.js, AWS), and running a Proxmox homelab and my own AI agent system.
 
