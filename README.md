@@ -17,4 +17,4 @@ Full-stack developer and computer engineering student (BSc, Széchenyi István U
 | [**Saveasy**](https://github.com/WalkeU/Saveasyngs) | Self-hosted finance app with bank CSV import, rules engine and savings tracking | React, Fastify, SQLite |
 | [**HealthApp**](https://github.com/WalkeU/HealthApp) | Running and health dashboard for Garmin, Apple Health and Strava data | React, Express, SQLite |
 
-📫 [walkegabor.hu](https://walkegabor.hu) · walkegabor@gmail.com
+📫 [walkegabor.hu](https://walkegabor.hu) · [LinkedIn](https://www.linkedin.com/in/walkegabor) · walkegabor@gmail.com
